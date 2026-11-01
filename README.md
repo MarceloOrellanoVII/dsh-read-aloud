@@ -1,7 +1,3 @@
-# dsh-read-aloud
-
-Read-aloud plugin for **DeepSeek Harness** — it speaks conversation results using the **built-in Windows text-to-speech engine** (Web Speech API). No API keys, no cloud services, no extra model downloads: it uses the voices that already ship with Windows (Microsoft David, Natural voices, and any other TTS voices you have installed).
-
 ## Features
 
 - **"Read result"** button in the composer dock — reads the latest assistant message; while speaking it becomes **Stop**.
