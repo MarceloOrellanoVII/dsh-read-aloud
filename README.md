@@ -61,5 +61,5 @@ If this plugin is useful to you, a small contribution keeps it maintained:
 - Contribution: pull requests welcome.
 
 ## License
-| ![License](LICENSE) |
+| [License](LICENSE) |
 
