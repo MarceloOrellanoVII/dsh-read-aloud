@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Read Aloud",
+    "description": "Adds a button to the conversation that reads the latest result aloud using Windows text-to-speech."
+  }
+}
