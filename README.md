@@ -32,10 +32,6 @@ If this plugin is useful to you, a small contribution keeps it maintained:
 
 - **[Donate via PayPal](https://www.paypal.com/donate/?hosted_button_id=YHFEX4KPGJ9R2)**
 
-| Scan to donate |
-| :--: |
-| ![PayPal QR code](paypal-qr.png) |
-
 ## Package layout
 
 | File | Purpose |
